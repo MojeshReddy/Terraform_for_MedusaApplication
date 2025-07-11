@@ -1,1 +1,10 @@
-# Terraform_for_MedusaApplication
+# IaC-Terraform-Aws-ECS-Fargate-for-Medusa-open-source-headless-commerce-platform-backend
+
+
+
+
+
+
+
+
+
